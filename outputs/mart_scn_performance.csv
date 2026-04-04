@@ -1,0 +1,12 @@
+scn_region,total_members,total_screened,screened_dy26,hrsn_positive,avg_needs_count,screening_rate_pct,hrsn_prevalence_pct,pct_of_state_volume,dy26_milestone_status
+NYC-West,2508,1721,1721,967.0,0.61,68.62,56.19,5.11,On track
+NYC-East,2466,1684,1684,882.0,0.56,68.29,52.38,5.0,On track
+NYC-North,5014,3416,3416,1810.0,0.54,68.13,52.99,10.14,On track
+Finger Lakes,2510,1703,1703,944.0,0.58,67.85,55.43,5.05,On track
+Southern Tier,2445,1653,1653,898.0,0.6,67.61,54.33,4.91,On track
+Long Island,4878,3297,3297,1830.0,0.6,67.59,55.51,9.78,On track
+Hudson Valley,12648,8533,8533,4691.0,0.58,67.47,54.97,25.32,On track
+NYC-South,4960,3345,3345,1857.0,0.56,67.44,55.52,9.93,On track
+Central NY,4987,3330,3330,1827.0,0.59,66.77,54.86,9.88,On track
+Western NY,5120,3404,3404,1819.0,0.54,66.48,53.44,10.1,On track
+Capital Region,2464,1614,1614,860.0,0.57,65.5,53.28,4.79,On track

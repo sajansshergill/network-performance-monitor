@@ -1,0 +1,81 @@
+county,scn_region,primary_need_type,screened_with_need,no_service_count,gap_within_30d_count,service_gap_rate_pct,no_service_rate_pct,avg_days_to_service
+Delaware,Southern Tier,Housing,255,177.0,195.0,76.47,69.41,26.0
+Delaware,Southern Tier,Transportation,184,121.0,138.0,75.0,65.76,25.1
+Delaware,Southern Tier,Case Management,159,107.0,119.0,74.84,67.3,24.5
+Delaware,Southern Tier,Nutrition,275,182.0,205.0,74.55,66.18,25.7
+Buffalo,Western NY,Case Management,192,86.0,111.0,57.81,44.79,23.7
+Suffolk,Long Island,Transportation,182,74.0,105.0,57.69,40.66,25.3
+Suffolk,Long Island,Nutrition,262,112.0,151.0,57.63,42.75,26.4
+Buffalo,Western NY,Housing,267,115.0,153.0,57.3,43.07,23.2
+Queens,NYC-East,Nutrition,231,89.0,132.0,57.14,38.53,27.2
+Dutchess,Hudson Valley,Transportation,187,79.0,106.0,56.68,42.25,23.9
+Suffolk,Long Island,Case Management,173,69.0,97.0,56.07,39.88,25.9
+Orange,Hudson Valley,Housing,265,106.0,148.0,55.85,40.0,26.6
+Westchester,Hudson Valley,Case Management,202,86.0,112.0,55.45,42.57,24.8
+Rochester,Finger Lakes,Transportation,213,87.0,118.0,55.4,40.85,24.1
+Erie,Western NY,Housing,268,103.0,148.0,55.22,38.43,25.7
+Albany,Capital Region,Transportation,174,69.0,96.0,55.17,39.66,26.4
+Erie,Western NY,Transportation,185,73.0,102.0,55.14,39.46,25.9
+Onondaga,Central NY,Transportation,207,83.0,114.0,55.07,40.1,26.0
+Buffalo,Western NY,Nutrition,244,94.0,134.0,54.92,38.52,26.3
+Rochester,Finger Lakes,Housing,259,103.0,142.0,54.83,39.77,26.0
+Dutchess,Hudson Valley,Case Management,189,78.0,103.0,54.5,41.27,23.8
+Ulster,Hudson Valley,Housing,259,108.0,140.0,54.05,41.7,23.9
+Onondaga,Central NY,Nutrition,241,91.0,130.0,53.94,37.76,25.3
+Orange,Hudson Valley,Case Management,193,77.0,104.0,53.89,39.9,24.0
+Sullivan,Hudson Valley,Case Management,199,83.0,107.0,53.77,41.71,20.9
+Nassau,Long Island,Case Management,181,67.0,97.0,53.59,37.02,25.3
+Dutchess,Hudson Valley,Housing,252,92.0,135.0,53.57,36.51,26.1
+Yonkers,NYC-West,Nutrition,262,104.0,140.0,53.44,39.69,24.7
+Westchester,Hudson Valley,Nutrition,262,93.0,140.0,53.44,35.5,26.7
+Ulster,Hudson Valley,Transportation,191,76.0,102.0,53.4,39.79,25.8
+Yonkers,NYC-West,Transportation,197,59.0,105.0,53.3,29.95,30.0
+Dutchess,Hudson Valley,Nutrition,250,88.0,133.0,53.2,35.2,25.3
+Syracuse,Central NY,Transportation,190,73.0,101.0,53.16,38.42,23.6
+Onondaga,Central NY,Housing,258,100.0,137.0,53.1,38.76,24.4
+Nassau,Long Island,Nutrition,262,99.0,139.0,53.05,37.79,23.6
+Rochester,Finger Lakes,Case Management,181,75.0,96.0,53.04,41.44,23.3
+Nassau,Long Island,Housing,259,93.0,137.0,52.9,35.91,27.0
+Buffalo,Western NY,Transportation,195,76.0,103.0,52.82,38.97,24.3
+Queens,NYC-East,Transportation,161,65.0,85.0,52.8,40.37,21.8
+Erie,Western NY,Nutrition,254,91.0,134.0,52.76,35.83,26.5
+Albany,Capital Region,Case Management,182,67.0,96.0,52.75,36.81,26.1
+Ulster,Hudson Valley,Nutrition,265,102.0,139.0,52.45,38.49,24.1
+Rochester,Finger Lakes,Nutrition,265,105.0,139.0,52.45,39.62,23.1
+Syracuse,Central NY,Housing,269,100.0,141.0,52.42,37.17,26.6
+Sullivan,Hudson Valley,Housing,272,100.0,142.0,52.21,36.76,25.3
+Queens,NYC-East,Case Management,194,66.0,101.0,52.06,34.02,26.7
+Orange,Hudson Valley,Nutrition,250,97.0,129.0,51.6,38.8,23.2
+Albany,Capital Region,Nutrition,247,96.0,127.0,51.42,38.87,23.1
+Onondaga,Central NY,Case Management,179,64.0,92.0,51.4,35.75,27.7
+Yonkers,NYC-West,Housing,284,101.0,145.0,51.06,35.56,25.6
+Ulster,Hudson Valley,Case Management,181,75.0,92.0,50.83,41.44,21.0
+Queens,NYC-East,Housing,272,107.0,138.0,50.74,39.34,22.4
+Westchester,Hudson Valley,Housing,274,93.0,139.0,50.73,33.94,25.4
+Westchester,Hudson Valley,Transportation,212,61.0,107.0,50.47,28.77,28.5
+Nassau,Long Island,Transportation,199,73.0,100.0,50.25,36.68,24.1
+Syracuse,Central NY,Nutrition,244,93.0,122.0,50.0,38.11,21.7
+Erie,Western NY,Case Management,175,60.0,87.0,49.71,34.29,22.9
+Syracuse,Central NY,Case Management,195,70.0,96.0,49.23,35.9,24.0
+Brooklyn,NYC-South,Nutrition,240,81.0,118.0,49.17,33.75,25.5
+Orange,Hudson Valley,Transportation,206,72.0,101.0,49.03,34.95,23.5
+Sullivan,Hudson Valley,Nutrition,283,99.0,138.0,48.76,34.98,23.6
+Suffolk,Long Island,Housing,253,93.0,123.0,48.62,36.76,22.3
+Manhattan,NYC-North,Nutrition,226,63.0,108.0,47.79,27.88,25.4
+Sullivan,Hudson Valley,Transportation,176,57.0,84.0,47.73,32.39,25.8
+Bronx,NYC-North,Case Management,174,55.0,83.0,47.7,31.61,23.3
+Brooklyn,NYC-South,Transportation,200,65.0,95.0,47.5,32.5,21.5
+Staten Island,NYC-South,Case Management,184,48.0,87.0,47.28,26.09,27.2
+Yonkers,NYC-West,Case Management,191,71.0,88.0,46.07,37.17,19.0
+Brooklyn,NYC-South,Housing,302,92.0,139.0,46.03,30.46,23.8
+Manhattan,NYC-North,Transportation,185,53.0,85.0,45.95,28.65,24.9
+Bronx,NYC-North,Nutrition,258,68.0,118.0,45.74,26.36,24.7
+Staten Island,NYC-South,Housing,232,64.0,105.0,45.26,27.59,25.8
+Manhattan,NYC-North,Housing,270,82.0,122.0,45.19,30.37,22.7
+Albany,Capital Region,Housing,233,74.0,105.0,45.06,31.76,22.7
+Bronx,NYC-North,Transportation,200,56.0,88.0,44.0,28.0,24.4
+Bronx,NYC-North,Housing,277,70.0,121.0,43.68,25.27,24.9
+Brooklyn,NYC-South,Case Management,183,45.0,78.0,42.62,24.59,23.5
+Staten Island,NYC-South,Nutrition,241,59.0,102.0,42.32,24.48,25.0
+Manhattan,NYC-North,Case Management,181,45.0,72.0,39.78,24.86,22.0
+Staten Island,NYC-South,Transportation,222,56.0,88.0,39.64,25.23,23.2

@@ -28,8 +28,16 @@ CBO_PROVIDERS = [
 
 def generate_services(screenings_df: pd.DataFrame, service_rate: float = 0.62) -> pd.DataFrame:
     print(f"Generating service delivery records (base rate: {service_rate:.0%})...")
-    hrsn_positive = screenings_df[screenings_df["hrsn_flag"] == True].copy()
-    print(f"  ✓ {len(hrsn_positive):,} HRSN-positive members eligible for services")
+    # Coerce so empty strings / bad values become NaT (plain .notna() misses "")
+    screening_ts = pd.to_datetime(screenings_df["screening_date"], errors="coerce")
+    hrsn_mask = screenings_df["hrsn_flag"] == True
+    hrsn_positive = screenings_df[hrsn_mask & screening_ts.notna()].copy()
+    skipped = (hrsn_mask & screening_ts.isna()).sum()
+    print(f"  ✓ {len(hrsn_positive):,} HRSN-positive members eligible for services", end="")
+    if skipped:
+        print(f" ({skipped:,} skipped: no screening date)")
+    else:
+        print()
 
     records = []
     for i, row in enumerate(hrsn_positive.itertuples(index=False)):
@@ -42,7 +50,9 @@ def generate_services(screenings_df: pd.DataFrame, service_rate: float = 0.62) -
         if random.random() > rate:
             continue
 
-        screening_date = pd.to_datetime(row.screening_date)
+        screening_date = pd.to_datetime(row.screening_date, errors="coerce")
+        if pd.isna(screening_date):
+            continue
         delay_days = random.choices(
             [random.randint(1, 14), random.randint(15, 30), random.randint(31, 90)],
             weights=[0.45, 0.30, 0.25]
@@ -67,7 +77,12 @@ def generate_services(screenings_df: pd.DataFrame, service_rate: float = 0.62) -
         })
 
     df = pd.DataFrame(records)
-    print(f"  ✓ {len(df):,} service records | within-30d: {df['within_30_days'].mean():.1%}")
+    if len(df) == 0:
+        print("  ✓ 0 service records")
+        return df
+    print(
+        f"  ✓ {len(df):,} service records | within-30d: {df['within_30_days'].mean():.1%}"
+    )
     return df
 
 

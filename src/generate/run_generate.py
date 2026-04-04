@@ -1,3 +1,4 @@
+import os
 import sys
 import time
 from pathlib import Path
@@ -12,6 +13,9 @@ from src.generate.renewal_outcomes_generator import generate_renewal_outcomes
 RAW_DIR = Path("data/raw")
 RAW_DIR.mkdir(parents=True, exist_ok=True)
 
+# Override with e.g. NPMC_MEMBERS=5000 for faster local runs
+N_MEMBERS = int(os.environ.get("NPMC_MEMBERS", "50000"))
+
 
 def main():
     start = time.time()
@@ -20,7 +24,7 @@ def main():
     print("=" * 60)
 
     print("\n[1/4] Members")
-    members_df = generate_members(50_000)
+    members_df = generate_members(N_MEMBERS)
     members_df.to_parquet(RAW_DIR / "members.parquet", index=False)
 
     print("\n[2/4] Screenings")

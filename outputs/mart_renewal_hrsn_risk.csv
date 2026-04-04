@@ -1,0 +1,141 @@
+county,scn_region,race_ethnicity,total_members,coverage_lapsed,hrsn_positive,lapsed_with_unmet_hrsn,lapsed_language_barrier,disenrollment_rate_pct,high_risk_rate_pct
+Orange,Hudson Valley,American Indian or Alaska Native,77,22.0,32.0,12.0,6.0,28.57,15.58
+Buffalo,Western NY,American Indian or Alaska Native,93,24.0,39.0,13.0,2.0,25.81,13.98
+Staten Island,NYC-South,American Indian or Alaska Native,79,23.0,26.0,11.0,1.0,29.11,13.92
+Syracuse,Central NY,Unknown,123,30.0,47.0,17.0,4.0,24.39,13.82
+Delaware,Southern Tier,American Indian or Alaska Native,67,16.0,29.0,9.0,2.0,23.88,13.43
+Queens,NYC-East,Unknown,114,37.0,41.0,15.0,8.0,32.46,13.16
+Westchester,Hudson Valley,Multiracial,161,37.0,67.0,21.0,4.0,22.98,13.04
+Orange,Hudson Valley,Multiracial,133,35.0,62.0,17.0,7.0,26.32,12.78
+Westchester,Hudson Valley,American Indian or Alaska Native,69,17.0,31.0,8.0,4.0,24.64,11.59
+Staten Island,NYC-South,Hispanic or Latino,617,157.0,247.0,71.0,22.0,25.45,11.51
+Suffolk,Long Island,Multiracial,158,34.0,59.0,18.0,8.0,21.52,11.39
+Erie,Western NY,Asian or Pacific Islander,279,64.0,112.0,31.0,13.0,22.94,11.11
+Bronx,NYC-North,Black or African American,595,134.0,238.0,66.0,19.0,22.52,11.09
+Onondaga,Central NY,Asian or Pacific Islander,300,74.0,103.0,32.0,15.0,24.67,10.67
+Yonkers,NYC-West,White Non-Hispanic,555,126.0,222.0,59.0,20.0,22.7,10.63
+Delaware,Southern Tier,Multiracial,151,35.0,60.0,16.0,9.0,23.18,10.6
+Orange,Hudson Valley,White Non-Hispanic,588,132.0,222.0,62.0,18.0,22.45,10.54
+Manhattan,NYC-North,Unknown,114,26.0,43.0,12.0,5.0,22.81,10.53
+Manhattan,NYC-North,American Indian or Alaska Native,95,17.0,40.0,10.0,5.0,17.89,10.53
+Queens,NYC-East,Multiracial,146,37.0,65.0,15.0,4.0,25.34,10.27
+Erie,Western NY,American Indian or Alaska Native,78,16.0,25.0,8.0,3.0,20.51,10.26
+Dutchess,Hudson Valley,Asian or Pacific Islander,283,69.0,99.0,29.0,15.0,24.38,10.25
+Manhattan,NYC-North,Hispanic or Latino,700,173.0,236.0,71.0,29.0,24.71,10.14
+Yonkers,NYC-West,American Indian or Alaska Native,79,13.0,35.0,8.0,0.0,16.46,10.13
+Suffolk,Long Island,Asian or Pacific Islander,336,73.0,130.0,34.0,11.0,21.73,10.12
+Sullivan,Hudson Valley,Hispanic or Latino,772,169.0,312.0,78.0,22.0,21.89,10.1
+Nassau,Long Island,Black or African American,550,127.0,203.0,55.0,19.0,23.09,10.0
+Bronx,NYC-North,White Non-Hispanic,591,141.0,225.0,59.0,23.0,23.86,9.98
+Bronx,NYC-North,Hispanic or Latino,675,155.0,260.0,67.0,20.0,22.96,9.93
+Delaware,Southern Tier,Unknown,151,37.0,60.0,15.0,3.0,24.5,9.93
+Queens,NYC-East,Hispanic or Latino,696,155.0,262.0,69.0,28.0,22.27,9.91
+Brooklyn,NYC-South,White Non-Hispanic,569,128.0,217.0,56.0,17.0,22.5,9.84
+Erie,Western NY,Black or African American,609,135.0,212.0,59.0,22.0,22.17,9.69
+Staten Island,NYC-South,Multiracial,125,30.0,50.0,12.0,4.0,24.0,9.6
+Queens,NYC-East,White Non-Hispanic,532,117.0,180.0,51.0,18.0,21.99,9.59
+Onondaga,Central NY,Hispanic or Latino,670,153.0,244.0,63.0,21.0,22.84,9.4
+Suffolk,Long Island,White Non-Hispanic,538,123.0,201.0,50.0,20.0,22.86,9.29
+Onondaga,Central NY,White Non-Hispanic,551,114.0,205.0,51.0,19.0,20.69,9.26
+Yonkers,NYC-West,Hispanic or Latino,724,156.0,278.0,66.0,25.0,21.55,9.12
+Dutchess,Hudson Valley,Black or African American,594,132.0,224.0,54.0,24.0,22.22,9.09
+Rochester,Finger Lakes,Asian or Pacific Islander,308,67.0,117.0,28.0,6.0,21.75,9.09
+Dutchess,Hudson Valley,White Non-Hispanic,542,109.0,207.0,49.0,17.0,20.11,9.04
+Orange,Hudson Valley,Asian or Pacific Islander,322,65.0,122.0,29.0,7.0,20.19,9.01
+Manhattan,NYC-North,Asian or Pacific Islander,289,70.0,98.0,26.0,16.0,24.22,9.0
+Sullivan,Hudson Valley,Multiracial,145,32.0,56.0,13.0,5.0,22.07,8.97
+Erie,Western NY,Hispanic or Latino,717,151.0,249.0,64.0,30.0,21.06,8.93
+Sullivan,Hudson Valley,Asian or Pacific Islander,292,61.0,113.0,26.0,10.0,20.89,8.9
+Syracuse,Central NY,Black or African American,597,122.0,239.0,53.0,23.0,20.44,8.88
+Queens,NYC-East,Black or African American,598,131.0,207.0,53.0,21.0,21.91,8.86
+Suffolk,Long Island,Hispanic or Latino,678,157.0,242.0,60.0,23.0,23.16,8.85
+Buffalo,Western NY,Hispanic or Latino,678,137.0,252.0,60.0,22.0,20.21,8.85
+Queens,NYC-East,American Indian or Alaska Native,80,17.0,22.0,7.0,3.0,21.25,8.75
+Brooklyn,NYC-South,Asian or Pacific Islander,297,66.0,106.0,26.0,10.0,22.22,8.75
+Westchester,Hudson Valley,Unknown,138,28.0,48.0,12.0,2.0,20.29,8.7
+Ulster,Hudson Valley,Multiracial,138,30.0,47.0,12.0,4.0,21.74,8.7
+Brooklyn,NYC-South,Hispanic or Latino,703,143.0,284.0,61.0,24.0,20.34,8.68
+Buffalo,Western NY,Multiracial,162,34.0,58.0,14.0,8.0,20.99,8.64
+Westchester,Hudson Valley,Asian or Pacific Islander,313,67.0,125.0,27.0,12.0,21.41,8.63
+Staten Island,NYC-South,White Non-Hispanic,557,125.0,196.0,48.0,22.0,22.44,8.62
+Suffolk,Long Island,American Indian or Alaska Native,93,22.0,34.0,8.0,4.0,23.66,8.6
+Staten Island,NYC-South,Unknown,128,34.0,47.0,11.0,8.0,26.56,8.59
+Syracuse,Central NY,White Non-Hispanic,594,133.0,214.0,51.0,18.0,22.39,8.59
+Erie,Western NY,White Non-Hispanic,548,98.0,223.0,47.0,13.0,17.88,8.58
+Rochester,Finger Lakes,Black or African American,609,130.0,248.0,52.0,21.0,21.35,8.54
+Dutchess,Hudson Valley,Hispanic or Latino,692,157.0,237.0,59.0,24.0,22.69,8.53
+Yonkers,NYC-West,Asian or Pacific Islander,283,68.0,96.0,24.0,13.0,24.03,8.48
+Albany,Capital Region,White Non-Hispanic,531,134.0,185.0,45.0,26.0,25.24,8.47
+Delaware,Southern Tier,Black or African American,603,135.0,222.0,51.0,22.0,22.39,8.46
+Syracuse,Central NY,Multiracial,130,27.0,49.0,11.0,4.0,20.77,8.46
+Nassau,Long Island,Asian or Pacific Islander,286,52.0,112.0,24.0,6.0,18.18,8.39
+Brooklyn,NYC-South,Black or African American,613,159.0,232.0,51.0,22.0,25.94,8.32
+Nassau,Long Island,Hispanic or Latino,710,157.0,272.0,59.0,21.0,22.11,8.31
+Yonkers,NYC-West,Black or African American,580,121.0,231.0,48.0,16.0,20.86,8.28
+Orange,Hudson Valley,Unknown,121,30.0,49.0,10.0,2.0,24.79,8.26
+Staten Island,NYC-South,Asian or Pacific Islander,304,63.0,112.0,25.0,9.0,20.72,8.22
+Rochester,Finger Lakes,Multiracial,134,25.0,48.0,11.0,9.0,18.66,8.21
+Onondaga,Central NY,Black or African American,586,125.0,223.0,48.0,21.0,21.33,8.19
+Delaware,Southern Tier,Asian or Pacific Islander,293,50.0,112.0,24.0,10.0,17.06,8.19
+Syracuse,Central NY,Hispanic or Latino,711,149.0,242.0,58.0,20.0,20.96,8.16
+Bronx,NYC-North,Multiracial,147,34.0,51.0,12.0,5.0,23.13,8.16
+Sullivan,Hudson Valley,White Non-Hispanic,578,124.0,203.0,47.0,19.0,21.45,8.13
+Onondaga,Central NY,Unknown,124,29.0,51.0,10.0,4.0,23.39,8.06
+Rochester,Finger Lakes,Hispanic or Latino,711,147.0,259.0,57.0,16.0,20.68,8.02
+Westchester,Hudson Valley,Black or African American,602,120.0,240.0,48.0,26.0,19.93,7.97
+Nassau,Long Island,Multiracial,128,25.0,43.0,10.0,2.0,19.53,7.81
+Ulster,Hudson Valley,Asian or Pacific Islander,334,66.0,115.0,26.0,9.0,19.76,7.78
+Rochester,Finger Lakes,Unknown,116,26.0,40.0,9.0,4.0,22.41,7.76
+Ulster,Hudson Valley,Hispanic or Latino,698,140.0,248.0,54.0,15.0,20.06,7.74
+Orange,Hudson Valley,Black or African American,609,142.0,210.0,47.0,10.0,23.32,7.72
+Onondaga,Central NY,Multiracial,144,34.0,50.0,11.0,8.0,23.61,7.64
+Orange,Hudson Valley,Hispanic or Latino,700,150.0,253.0,53.0,21.0,21.43,7.57
+Westchester,Hudson Valley,White Non-Hispanic,542,107.0,192.0,41.0,14.0,19.74,7.56
+Delaware,Southern Tier,Hispanic or Latino,661,130.0,238.0,50.0,24.0,19.67,7.56
+Sullivan,Hudson Valley,Black or African American,596,118.0,216.0,45.0,11.0,19.8,7.55
+Bronx,NYC-North,American Indian or Alaska Native,80,16.0,20.0,6.0,0.0,20.0,7.5
+Nassau,Long Island,White Non-Hispanic,535,107.0,207.0,40.0,16.0,20.0,7.48
+Nassau,Long Island,American Indian or Alaska Native,67,14.0,29.0,5.0,1.0,20.9,7.46
+Bronx,NYC-North,Asian or Pacific Islander,268,52.0,101.0,20.0,8.0,19.4,7.46
+Westchester,Hudson Valley,Hispanic or Latino,711,151.0,270.0,53.0,29.0,21.24,7.45
+Ulster,Hudson Valley,American Indian or Alaska Native,81,15.0,31.0,6.0,3.0,18.52,7.41
+Albany,Capital Region,American Indian or Alaska Native,55,10.0,20.0,4.0,3.0,18.18,7.27
+Brooklyn,NYC-South,American Indian or Alaska Native,69,9.0,27.0,5.0,3.0,13.04,7.25
+Syracuse,Central NY,Asian or Pacific Islander,305,72.0,106.0,22.0,10.0,23.61,7.21
+Buffalo,Western NY,White Non-Hispanic,572,127.0,199.0,41.0,18.0,22.2,7.17
+Ulster,Hudson Valley,White Non-Hispanic,563,115.0,219.0,40.0,28.0,20.43,7.1
+Ulster,Hudson Valley,Unknown,127,29.0,45.0,9.0,4.0,22.83,7.09
+Dutchess,Hudson Valley,Unknown,141,28.0,48.0,10.0,4.0,19.86,7.09
+Manhattan,NYC-North,Black or African American,639,145.0,222.0,45.0,18.0,22.69,7.04
+Manhattan,NYC-North,White Non-Hispanic,556,127.0,189.0,39.0,19.0,22.84,7.01
+Queens,NYC-East,Asian or Pacific Islander,300,53.0,105.0,21.0,9.0,17.67,7.0
+Rochester,Finger Lakes,White Non-Hispanic,557,112.0,202.0,39.0,16.0,20.11,7.0
+Delaware,Southern Tier,White Non-Hispanic,519,108.0,177.0,36.0,11.0,20.81,6.94
+Albany,Capital Region,Black or African American,607,108.0,208.0,42.0,21.0,17.79,6.92
+Manhattan,NYC-North,Multiracial,145,25.0,49.0,10.0,4.0,17.24,6.9
+Suffolk,Long Island,Unknown,116,21.0,37.0,8.0,2.0,18.1,6.9
+Buffalo,Western NY,Black or African American,627,137.0,195.0,43.0,27.0,21.85,6.86
+Staten Island,NYC-South,Black or African American,631,136.0,226.0,43.0,28.0,21.55,6.81
+Yonkers,NYC-West,Multiracial,162,39.0,61.0,11.0,9.0,24.07,6.79
+Sullivan,Hudson Valley,American Indian or Alaska Native,59,9.0,20.0,4.0,2.0,15.25,6.78
+Albany,Capital Region,Hispanic or Latino,657,120.0,238.0,44.0,17.0,18.26,6.7
+Bronx,NYC-North,Unknown,120,25.0,38.0,8.0,7.0,20.83,6.67
+Buffalo,Western NY,Asian or Pacific Islander,332,63.0,128.0,22.0,13.0,18.98,6.63
+Suffolk,Long Island,Black or African American,557,104.0,202.0,36.0,17.0,18.67,6.46
+Ulster,Hudson Valley,Black or African American,590,99.0,207.0,38.0,17.0,16.78,6.44
+Erie,Western NY,Multiracial,140,31.0,39.0,9.0,7.0,22.14,6.43
+Dutchess,Hudson Valley,Multiracial,156,31.0,58.0,10.0,2.0,19.87,6.41
+Nassau,Long Island,Unknown,126,25.0,59.0,8.0,8.0,19.84,6.35
+Albany,Capital Region,Asian or Pacific Islander,315,55.0,115.0,20.0,5.0,17.46,6.35
+Yonkers,NYC-West,Unknown,125,23.0,44.0,7.0,3.0,18.4,5.6
+Rochester,Finger Lakes,American Indian or Alaska Native,75,16.0,30.0,4.0,3.0,21.33,5.33
+Brooklyn,NYC-South,Multiracial,152,33.0,49.0,8.0,1.0,21.71,5.26
+Brooklyn,NYC-South,Unknown,116,21.0,38.0,6.0,2.0,18.1,5.17
+Albany,Capital Region,Unknown,156,37.0,47.0,8.0,4.0,23.72,5.13
+Erie,Western NY,Unknown,139,32.0,43.0,7.0,8.0,23.02,5.04
+Albany,Capital Region,Multiracial,143,21.0,47.0,7.0,5.0,14.69,4.9
+Buffalo,Western NY,Unknown,146,28.0,45.0,7.0,3.0,19.18,4.79
+Onondaga,Central NY,American Indian or Alaska Native,71,12.0,28.0,3.0,2.0,16.9,4.23
+Syracuse,Central NY,American Indian or Alaska Native,81,16.0,26.0,3.0,6.0,19.75,3.7
+Sullivan,Hudson Valley,Unknown,110,28.0,38.0,3.0,6.0,25.45,2.73
+Dutchess,Hudson Valley,American Indian or Alaska Native,71,9.0,25.0,0.0,0.0,12.68,0.0

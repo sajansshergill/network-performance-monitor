@@ -1,0 +1,4 @@
+pandas>=2.0
+faker>=24.0
+duckdb>=1.0
+pyarrow>=14.0
